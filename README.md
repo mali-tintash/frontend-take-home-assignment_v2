@@ -55,6 +55,15 @@ You don't need to add any action on the confirmation button
 
 # Delivery Instructions
 
+#### Project planning
+
+- You are required to breakdown this assignment into tasks and subtasks.
+- Name your tasks, and add appropriate descriptions.
+- Name your subtasks appropriately, and add descriptions.
+- Estimate the time required to complete each task.
+- Use any spreadsheet software (e-g Google Sheets) to track these tasks.
+
 Don't create a fork, send us the link to your repository and make sure to make it public.
 
 - Send us usage instructions e-g After cloning your repository, how do we from setting it up on our system and run it to view your assignment.
+- Also send us a link to your project planning sheet.
