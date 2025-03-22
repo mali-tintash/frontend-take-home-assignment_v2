@@ -30,6 +30,7 @@ Be aware that Origin will mainly take into consideration the following evaluatio
 You can find the layout mockups here on our Figma project:
 [Layout mockups](https://www.figma.com/design/OvYsNWJ9kondr53nGgnQSO/Take-Home-Assignment-v2?node-id=0-1&t=7btYIgX2OJiHuv5R-1)
 
+We have also provided some assets in the repository if you wish to re-use those.
 Once you have opened the link you must sign up and log in so you can have access to the colors, fonts, margins and assets information.
 
 #### Money input
