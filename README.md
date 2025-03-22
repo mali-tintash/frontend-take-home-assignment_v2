@@ -1,6 +1,6 @@
 # Origin Frontend Take-Home Assignment
 
-**IMPORTANT**: you can choose any technology stack to implement this assignment. Using our stack is not a requirement in the selection process - we will consider exclusively the quality of your project (technology and product-wise) to evaluate your work. We've added a project structure in this repository (a buildwith react, redux, jest, styled-components and typescript) to save you time if you want to use it. If you prefer another stack, feel free to use it.
+**IMPORTANT**: you can choose any technology stack to implement this assignment. We will consider exclusively the quality of your project (technology and product-wise) to evaluate your work.
 
 Origin is a platform that helps our customers' employees put their financial lives on track.
 
@@ -28,7 +28,7 @@ Be aware that Origin will mainly take into consideration the following evaluatio
 
 ### Assets
 You can find the layout mockups here on our Figma project:
-[Layout mockups](https://www.figma.com/file/Axdg0WSJURcxp8Arq3gg9x/Take-Home-Assignment-v2)
+[Layout mockups](https://www.figma.com/design/OvYsNWJ9kondr53nGgnQSO/Take-Home-Assignment-v2?node-id=0-1&t=7btYIgX2OJiHuv5R-1)
 
 Once you have opened the link you must sign up and log in so you can have access to the colors, fonts, margins and assets information.
 
@@ -57,36 +57,4 @@ You don't need to add any action on the confirmation button
 
 Don't create a fork, send us the link to your repository and make sure to make it public.
 
-# Usage
-
-This project requires the latest LTS version of NodeJS and you may need to install the yarn as global dependency
-```bash
-npm install -g yarn
-```
-
-After you have cloned this repo and install the yarn, install the dependencies with:
-
-```
-yarn install
-```
-
-You can then start the application running:
-
-```
-yarn start
-```
-
-That's it. Just Access `http://localhost:3000` in your browser.
-
-### Linting and Format
-
-```
-yarn lint
-yarn format
-```
-
-### Testing
-
-```
-yarn test
-```
+- Send us usage instructions e-g After cloning your repository, how do we from setting it up on our system and run it to view your assignment.
